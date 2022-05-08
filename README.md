@@ -12,7 +12,9 @@ Academic: Java, PHP, Python, Golang, JavaScript, HTML, CSS, Oracle (DB and PL/SQ
 
 ### 📧 Contact information 
 Email - michaelhv@uia.no
+
 Website - michaelhv.no (work in progress)
+
 LinkedIn - linkedin.com/in/michaelhvalen/
 <!--
 **OriginalMHV/OriginalMHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
