@@ -3,15 +3,15 @@
 
 
 ### 📙 About me
-I’m currently in my last semester of IT and information systems, writing a bachelor thesis with Oxidane Venture. I’m passionate about pursuing and learning all aspects of DevOps technologies, methodology and the Cloud. I want to continue this passion for helping organizations streamline their processes, scale systems and cut costs. I’m currently working as a scientific teacher assisting other students with their curriculum. I am open to learning new things and getting involved with new projects that can help me learn or apply all I have learned throughout my university career.
 
-### 💻 Technology
-Learning: Docker, Kubernetes, Azure DevOps, Terraform, Argo CD, Ansible, Grafana & Prometheus
-Experience: C#, .NET, VUE and Rust
-Academic: Java, PHP, Python, Golang, JavaScript, HTML, CSS, Oracle (DB and PL/SQL), MySQL and MariaDB
+Hello, my name is Michael, and I am a software developer who possesses a positive and open-minded attitude. My passion lies in Backend and DevOps, and I am particularly interested in product quality, configuration, and architecture. I hold a bachelor's degree in IT and information systems and have plans to pursue a master's degree in the future.
+
+In terms of personal competencies, I am a resourceful team player who values collaboration and communication with my peers. I am also a result-oriented problem solver who focuses on customer-centric factors to ensure that the solutions I develop meet their needs.
+
+I am currently working as a software developer at Telenor in Viken, Norway. My role is hands-on in all stages of the software development cycle, from planning and design to testing and deployment. Each day brings new and exciting tasks that may involve coding, configuring projects, altering code, fixing bugs, or brainstorming ideas. I enjoy the dynamic nature of my job, and I am always eager to take on new challenges to improve my skills as a developer.
 
 ### 📧 Contact information 
-Email - michaelhv@uia.no
+Email - michaelherlandvalen@gmail.com
 
 Website - michaelhv.no (work in progress)
 
