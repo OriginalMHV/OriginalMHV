@@ -1,21 +1,21 @@
-### Hi there 👋
+### Hey there, and a warm welcome to my profile! 👋
 
 
 
 ### 📙 About me
 
-Hello, my name is Michael, and I am a software developer who possesses a positive and open-minded attitude. My passion lies in Backend and DevOps, and I am particularly interested in product quality, configuration, and architecture. I hold a bachelor's degree in IT and information systems and have plans to pursue a master's degree in the future.
+I'm Michael, your friendly neighborhood software developer. I bring a positive and open-minded attitude to the table, with a passion that lies in Backend and DevOps. I'm pretty interested in product quality, configuration, and architecture, and I've got a bachelor's degree in IT and information systems to back it up. Plus, I have my sights set on a master's degree in the future.
 
-In terms of personal competencies, I am a resourceful team player who values collaboration and communication with my peers. I am also a result-oriented problem solver who focuses on customer-centric factors to ensure that the solutions I develop meet their needs.
+When it comes to teamwork, I'm a resourceful collaborator who values open communication with my peers. I also pride myself on being a problem solver who's result-oriented, always keeping our customers' needs in mind to make sure the solutions I develop truly cater to them.
 
-I am currently working as a software developer at Telenor in Viken, Norway. My role is hands-on in all stages of the software development cycle, from planning and design to testing and deployment. Each day brings new and exciting tasks that may involve coding, configuring projects, altering code, fixing bugs, or brainstorming ideas. I enjoy the dynamic nature of my job, and I am always eager to take on new challenges to improve my skills as a developer.
+Right now, I'm serving as a software developer at Telenor in the beautiful Viken, Norway. My role allows me to dive head-first into every stage of the software development cycle, from planning and design, to testing and deployment. Each day brings new tasks, whether it's coding, configuring projects, altering code, fixing bugs, or brainstorming ideas, and I absolutely love the dynamic nature of my job. Always ready for a new challenge, I strive to constantly improve and refine my skills as a developer.
 
 ### 📧 Contact information 
 Email - michaelherlandvalen@gmail.com
 
-Website - michaelhv.no (work in progress)
+Website - michaelhv.no
 
-LinkedIn - linkedin.com/in/michaelhvalen/
+LinkedIn - linkedin.com/in/michaelhv/
 <!--
 **OriginalMHV/OriginalMHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
