@@ -16,6 +16,7 @@ Email - michaelherlandvalen@gmail.com
 Website - michaelhv.no
 
 LinkedIn - linkedin.com/in/michaelhv/
+
 [![](https://visitcount.itsvg.in/api?id=MHV&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **OriginalMHV/OriginalMHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
