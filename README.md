@@ -1,17 +1,12 @@
 ### Hey there, and a warm welcome to my profile! 👋
 
-
-
 ### 📙 About me
 
-I'm Michael, your friendly neighborhood software developer. I bring a positive and open-minded attitude to the table, with a passion that lies in Backend and DevOps. I'm pretty interested in product quality, configuration, and architecture, and I've got a bachelor's degree in IT and information systems to back it up. Plus, I have my sights set on a master's degree in the future.
+I'm Michael, your friendly neighborhood developer with a positive and proactive approach to everything I do. I have a passion for software development and love finding creative solutions to complex challenges. As a team player, I greatly value open communication and collaboration. I work diligently to ensure that the solutions I develop are not only functional but also perfectly meet the team's needs.
 
-When it comes to teamwork, I'm a resourceful collaborator who values open communication with my peers. I also pride myself on being a problem solver who's result-oriented, always keeping our customers' needs in mind to make sure the solutions I develop truly cater to them.
-
-Right now, I'm serving as a software developer at Telenor in the beautiful Viken, Norway. My role allows me to dive head-first into every stage of the software development cycle, from planning and design, to testing and deployment. Each day brings new tasks, whether it's coding, configuring projects, altering code, fixing bugs, or brainstorming ideas, and I absolutely love the dynamic nature of my job. Always ready for a new challenge, I strive to constantly improve and refine my skills as a developer.
+Currently, I'm working as a developer at Telenor in the beautiful region of Akershus, Norway. Here, I get to explore every aspect of the development process, from ideation and design to testing and implementation. Every day is filled with exciting tasks like coding, configuring, debugging, and brainstorming new ideas. I love that no day is the same as the last, and I'm always looking for new ways to improve my skills.
 
 ### 📧 Contact information 
-Email - michaelherlandvalen@gmail.com
 
 Website - michaelhv.no
 
