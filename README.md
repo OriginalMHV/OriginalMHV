@@ -8,10 +8,8 @@ Currently, I'm working as a developer at Telenor in the beautiful region of Aker
 
 ### 📧 Contact information 
 
-Website - michaelhv.no
-
-LinkedIn - linkedin.com/in/michaelhv/
-
+[![Website](https://img.shields.io/badge/Website-michaelhv.no-black)](https://michaelhv.no)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michaelhv-blue)](https://linkedin.com/in/michaelhv/)
 [![](https://visitcount.itsvg.in/api?id=MHV&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **OriginalMHV/OriginalMHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
