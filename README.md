@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 I'm Michael, a Software Engineer at [Telenor](https://www.telenor.no/) and a proud Haugesunder working out of Bærum. Think of me as a potato: not the flashiest thing on the plate, but I go with everything and I get the job done. Backend services, databases, infrastructure, internal tooling, onboarding documentation. Reliable, pragmatic, and always willing to roll up my sleeves.
 
 I genuinely enjoy helping others. Before Telenor I was a teaching assistant at UiA for several courses, and that never really left me. I still spend a good chunk of my time onboarding juniors, writing documentation that I wish existed when I started, and just being someone people can ask questions to without feeling stupid. I like going to the office, grabbing coffee, and actually talking to my colleagues about the problems we're solving.
