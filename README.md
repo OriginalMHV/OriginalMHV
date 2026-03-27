@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:CD853F,100:DAA520&height=200&text=Michael%20Herland%20Valen&fontSize=42&fontColor=FAEBD7&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Haugesund%2C%20Norway%20%F0%9F%87%B3%F0%9F%87%B4&descAlignY=55&descSize=18&descAlign=50&animation=fadeIn" width="100%" alt="" />
 
-[![Telenor](https://img.shields.io/badge/Telenor-Software%20Engineer-DAA520?style=for-the-badge&labelColor=1C1C1C)](https://www.telenor.no)
-[![Website](https://img.shields.io/badge/michaelhv.no-FAEBD7?style=for-the-badge&logo=safari&logoColor=1C1C1C)](https://michaelhv.no)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CD853F?style=for-the-badge&logo=linkedin&logoColor=FAEBD7&labelColor=1C1C1C)](https://linkedin.com/in/michaelhv)
 
 </div>
 
