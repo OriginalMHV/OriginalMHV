@@ -1,9 +1,21 @@
-### Hey there, and a warm welcome to my profile! 👋
+<div align="center">
 
-I'm Michael, I'm currently working as a Software Engineer at Telenor in the beautiful region of Akershus, Norway. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:CD853F,100:DAA520&height=200&text=Michael%20Herland%20Valen&fontSize=42&fontColor=FAEBD7&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Haugesund%2C%20Norway%20%F0%9F%87%B3%F0%9F%87%B4&descAlignY=55&descSize=18&descAlign=50&animation=fadeIn" width="100%" alt="" />
 
-### 📧 Contact information 
+[![Telenor](https://img.shields.io/badge/Telenor-Software%20Engineer-DAA520?style=for-the-badge&labelColor=1C1C1C)](https://www.telenor.no)
+[![Website](https://img.shields.io/badge/michaelhv.no-FAEBD7?style=for-the-badge&logo=safari&logoColor=1C1C1C&labelColor=1C1C1C)](https://michaelhv.no)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CD853F?style=for-the-badge&logo=linkedin&logoColor=FAEBD7&labelColor=1C1C1C)](https://linkedin.com/in/michaelhv)
 
-[![Website](https://img.shields.io/badge/Website-michaelhv.no-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michaelhv.no)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michaelhv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelhv/)
-[![](https://visitcount.itsvg.in/api?id=MHV&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+I'm Michael, a Software Engineer at [Telenor](https://www.telenor.no/) and a proud Haugesunder working out of Bærum. Think of me as a potato: not the flashiest thing on the plate, but I go with everything and I get the job done. Backend services, databases, infrastructure, internal tooling, onboarding documentation. Reliable, pragmatic, and always willing to roll up my sleeves.
+
+I genuinely enjoy helping others. Before Telenor I was a teaching assistant at UiA for several courses, and that never really left me. I still spend a good chunk of my time onboarding juniors, writing documentation that I wish existed when I started, and just being someone people can ask questions to without feeling stupid. I like going to the office, grabbing coffee, and actually talking to my colleagues about the problems we're solving.
+
+I write Kotlin and Spring Boot at work, and Rust on my own time. I build tools that I need and that I actually use every day. If something bothers me enough, I'll build a solution for it.
+
+Outside of work you'll find me kayaking, fishing, or cooking something slightly too ambitious for a Tuesday. If you haven't heard of Haugesund before, you will now.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA520,50:CD853F,100:8B4513&height=120&section=footer&reversal=true" width="100%" alt="" />
