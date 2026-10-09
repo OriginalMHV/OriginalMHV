@@ -1,9 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4513,50:CD853F,100:DAA520&height=200&text=Michael%20Herland%20Valen&fontSize=42&fontColor=FAEBD7&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Akershus%2C%20Norway%20%F0%9F%87%B3%F0%9F%87%B4&descAlignY=55&descSize=18&descAlign=50&animation=fadeIn" width="100%" alt="" />
-
-
-</div>
+<img src="assets/harbour.svg?v=1" width="100%" alt="Michael Herland Valen. A lighthouse at the end of a breakwater over a calm sea.">
 
 I'm Michael, a Software Engineer at [Telenor](https://www.telenor.no/) and a proud Haugesunder working out of Bærum. Think of me as a potato: not the flashiest thing on the plate, but I go with everything and I get the job done. Backend services, databases, infrastructure, internal tooling, onboarding documentation. Reliable, pragmatic, and always willing to roll up my sleeves.
 
@@ -13,4 +8,19 @@ I write Kotlin and Spring Boot at work, and Rust on my own time. I build tools t
 
 Outside of work you'll find me kayaking, fishing, or cooking something slightly too ambitious for a Tuesday. If you haven't heard of Haugesund before, you will now.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DAA520,50:CD853F,100:8B4513&height=120&section=footer&reversal=true" width="100%" alt="" />
+## Lately
+
+Coming soon: Fernly, a private, local-first medication and health journal for iPhone and Android.
+
+<!-- lately:start -->
+- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.0) (latest) · 2026-10-07<br>The `[schema]` table is removed from the manifest.
+- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.5.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.5.0) · 2026-10-06<br>The CLI is consolidated around `plan`, `apply`, `drift` and `audit`.
+- **[Recall](https://github.com/OriginalMHV/Recall)** [v0.1.1](https://github.com/OriginalMHV/Recall/releases/tag/v0.1.1) · 2026-03-24<br>OpenAI Codex CLI provider.
+- **[minimenta](https://github.com/OriginalMHV/minimenta)** · no release yet
+
+Updated weekly from my GitHub releases.
+<!-- lately:end -->
+
+## Find me
+
+[michaelhv.no](https://michaelhv.no) · [LinkedIn](https://www.linkedin.com/in/michaelhv)

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t">
+<title id="t">Michael Herland Valen. A lighthouse at the end of a breakwater over a calm sea.</title>
+<style>
+.nm{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:64px;letter-spacing:-1.5px;fill:#1F2328;stroke:#FFFFFF;stroke-width:3.5px;stroke-linejoin:round;paint-order:stroke fill}
+.hz{stroke:#D1D9E0}
+.sea{fill:#1F6F8B}
+.sst{stroke:url(#sg)}
+.ms{fill:url(#mg)}
+.mc{stop-color:#59636E}
+.hl{stroke:#59636E}
+.g0{stop-color:#1F6F8B}
+.f1{stop-opacity:.14}.f3{stop-opacity:.07}.f2{stop-opacity:0}
+.s0{stop-opacity:0}.s1{stop-opacity:1}
+@media (prefers-color-scheme:dark){
+.nm{fill:#F0F6FC;stroke:#0D1117}
+.hz{stroke:#3D444D}
+.sea{fill:#7CC4CF}
+.mc{stop-color:#9198A1}
+.hl{stroke:#9198A1}
+.g0{stop-color:#7CC4CF}
+.f1{stop-opacity:.20}.f3{stop-opacity:.10}
+}
+.bl{animation:bl 12s ease-in-out infinite}
+@keyframes bl{0%,38%{opacity:1}52%,88%{opacity:.1}100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.bl{animation:none}}
+</style>
+<defs>
+<radialGradient id="wf" gradientUnits="userSpaceOnUse" cx="540" cy="206" r="1" gradientTransform="translate(540 206) scale(360 92) translate(-540 -206)"><stop offset="0" class="g0 f1"/><stop offset=".55" class="g0 f3"/><stop offset="1" class="g0 f2"/></radialGradient>
+<linearGradient id="mg" gradientUnits="userSpaceOnUse" x1="606" y1="0" x2="900" y2="0"><stop offset="0" class="mc"/><stop offset=".6" class="mc"/><stop offset="1" class="mc" stop-opacity="0"/></linearGradient>
+<linearGradient id="sg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0"><stop offset="0" class="g0 s0"/><stop offset=".3" class="g0 s1"/><stop offset=".78" class="g0 s1"/><stop offset="1" class="g0 s0"/></linearGradient>
+<linearGradient id="bgl" gradientUnits="userSpaceOnUse" x1="632" y1="0" x2="300" y2="0"><stop offset="0" stop-color="#E3B341" stop-opacity=".62"/><stop offset=".55" stop-color="#E3B341" stop-opacity=".2"/><stop offset="1" stop-color="#E3B341" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="632" cy="78.9" r="34" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E3B341" stop-opacity=".55"/><stop offset="1" stop-color="#E3B341" stop-opacity="0"/></radialGradient>
+</defs>
+<g class="bl"><polygon points="632,73.9 250,20.900000000000006 250,170.9 632,83.9" fill="url(#bgl)"/></g>
+<line class="hz" x1="0" y1="196" x2="900" y2="196" stroke-width="1.5"/>
+<path class="sea" fill-opacity=".22" d="M395 196 C405 187 418 183 432 184 C446 176 466 177 478 186 C492 183 506 190 514 196 Z"/>
+<path d="M-40.0 210.0 C-20.2 206.5 -4.8 206.5 15.0 210.0 C34.8 213.5 50.2 213.5 70.0 210.0 C89.8 206.5 105.2 206.5 125.0 210.0 C144.8 213.5 160.2 213.5 180.0 210.0 C199.8 206.5 215.2 206.5 235.0 210.0 C254.8 213.5 270.2 213.5 290.0 210.0 C309.8 206.5 325.2 206.5 345.0 210.0 C364.8 213.5 380.2 213.5 400.0 210.0 C419.8 206.5 435.2 206.5 455.0 210.0 C474.8 213.5 490.2 213.5 510.0 210.0 C529.8 206.5 545.2 206.5 565.0 210.0 C584.8 213.5 600.2 213.5 620.0 210.0 C639.8 206.5 655.2 206.5 675.0 210.0 C694.8 213.5 710.2 213.5 730.0 210.0 C749.8 206.5 765.2 206.5 785.0 210.0 C804.8 213.5 820.2 213.5 840.0 210.0 C859.8 206.5 875.2 206.5 895.0 210.0 C914.8 213.5 930.2 213.5 950.0 210.0 L950.0 312 L-20 312 Z" fill="url(#wf)"/>
+<path class="sst" d="M-40.0 210.0 C-20.2 206.5 -4.8 206.5 15.0 210.0 C34.8 213.5 50.2 213.5 70.0 210.0 C89.8 206.5 105.2 206.5 125.0 210.0 C144.8 213.5 160.2 213.5 180.0 210.0 C199.8 206.5 215.2 206.5 235.0 210.0 C254.8 213.5 270.2 213.5 290.0 210.0 C309.8 206.5 325.2 206.5 345.0 210.0 C364.8 213.5 380.2 213.5 400.0 210.0 C419.8 206.5 435.2 206.5 455.0 210.0 C474.8 213.5 490.2 213.5 510.0 210.0 C529.8 206.5 545.2 206.5 565.0 210.0 C584.8 213.5 600.2 213.5 620.0 210.0 C639.8 206.5 655.2 206.5 675.0 210.0 C694.8 213.5 710.2 213.5 730.0 210.0 C749.8 206.5 765.2 206.5 785.0 210.0 C804.8 213.5 820.2 213.5 840.0 210.0 C859.8 206.5 875.2 206.5 895.0 210.0 C914.8 213.5 930.2 213.5 950.0 210.0" fill="none" stroke-width="1.5" stroke-opacity=".5" stroke-linecap="round"/>
+<path class="ms" fill-opacity=".34" d="M598 242 L606 218 L900 218 L900 242 Z"/>
+<rect class="ms" fill-opacity=".55" x="606" y="218" width="294" height="5"/>
+<line class="sst" x1="606" y1="218.75" x2="900" y2="218.75" stroke-width="1.5" stroke-opacity=".9"/>
+<g class="hl" stroke-width="1" stroke-opacity=".3"><line x1="650" y1="224" x2="650" y2="242"/><line x1="700" y1="224" x2="700" y2="242"/><line x1="750" y1="224" x2="750" y2="242"/><line x1="800" y1="224" x2="800" y2="242"/></g>
+<g transform="translate(632 218) scale(1.35) translate(-632 -218)">
+<path class="sea" d="M620 218 L624.5 130 L639.5 130 L644 218 Z"/>
+<path class="sea" fill-opacity=".45" d="M622.6 172 L623.4 152 L640.6 152 L641.4 172 Z" transform="translate(0 0)"/>
+<rect class="sea" x="618" y="124" width="28" height="6" rx="2"/>
+<path class="sea" d="M622 106 A10 10 0 0 1 642 106 Z"/>
+<rect class="sea" x="631" y="90" width="2" height="8"/>
+</g>
+<circle cx="632" cy="78.9" r="34" fill="url(#gl)"/>
+<polygon points="622.5,91.1 622.5,73.5 628.0,66.8 636.0,66.8 641.5,73.5 641.5,91.1" fill="#E3B341"/>
+<polygon points="625.2,87.0 625.2,74.9 628.6,70.8 628.6,87.0" fill="#FFF2C2"/>
+<path d="M-90.0 238.0 C-63.0 233.0 -42.0 233.0 -15.0 238.0 C12.0 243.0 33.0 243.0 60.0 238.0 C87.0 233.0 108.0 233.0 135.0 238.0 C162.0 243.0 183.0 243.0 210.0 238.0 C237.0 233.0 258.0 233.0 285.0 238.0 C312.0 243.0 333.0 243.0 360.0 238.0 C387.0 233.0 408.0 233.0 435.0 238.0 C462.0 243.0 483.0 243.0 510.0 238.0 C537.0 233.0 558.0 233.0 585.0 238.0 C612.0 243.0 633.0 243.0 660.0 238.0 C687.0 233.0 708.0 233.0 735.0 238.0 C762.0 243.0 783.0 243.0 810.0 238.0 C837.0 233.0 858.0 233.0 885.0 238.0 C912.0 243.0 933.0 243.0 960.0 238.0 L960.0 312 L-20 312 Z" fill="url(#wf)"/>
+<path class="sst" d="M-90.0 238.0 C-63.0 233.0 -42.0 233.0 -15.0 238.0 C12.0 243.0 33.0 243.0 60.0 238.0 C87.0 233.0 108.0 233.0 135.0 238.0 C162.0 243.0 183.0 243.0 210.0 238.0 C237.0 233.0 258.0 233.0 285.0 238.0 C312.0 243.0 333.0 243.0 360.0 238.0 C387.0 233.0 408.0 233.0 435.0 238.0 C462.0 243.0 483.0 243.0 510.0 238.0 C537.0 233.0 558.0 233.0 585.0 238.0 C612.0 243.0 633.0 243.0 660.0 238.0 C687.0 233.0 708.0 233.0 735.0 238.0 C762.0 243.0 783.0 243.0 810.0 238.0 C837.0 233.0 858.0 233.0 885.0 238.0 C912.0 243.0 933.0 243.0 960.0 238.0" fill="none" stroke-width="2" stroke-opacity=".65" stroke-linecap="round"/>
+<path d="M-30.0 268.0 C6.0 261.5 34.0 261.5 70.0 268.0 C106.0 274.5 134.0 274.5 170.0 268.0 C206.0 261.5 234.0 261.5 270.0 268.0 C306.0 274.5 334.0 274.5 370.0 268.0 C406.0 261.5 434.0 261.5 470.0 268.0 C506.0 274.5 534.0 274.5 570.0 268.0 C606.0 261.5 634.0 261.5 670.0 268.0 C706.0 274.5 734.0 274.5 770.0 268.0 C806.0 261.5 834.0 261.5 870.0 268.0 C906.0 274.5 934.0 274.5 970.0 268.0 L970.0 312 L-20 312 Z" fill="url(#wf)"/>
+<path class="sst" d="M-30.0 268.0 C6.0 261.5 34.0 261.5 70.0 268.0 C106.0 274.5 134.0 274.5 170.0 268.0 C206.0 261.5 234.0 261.5 270.0 268.0 C306.0 274.5 334.0 274.5 370.0 268.0 C406.0 261.5 434.0 261.5 470.0 268.0 C506.0 274.5 534.0 274.5 570.0 268.0 C606.0 261.5 634.0 261.5 670.0 268.0 C706.0 274.5 734.0 274.5 770.0 268.0 C806.0 261.5 834.0 261.5 870.0 268.0 C906.0 274.5 934.0 274.5 970.0 268.0" fill="none" stroke-width="2.5" stroke-opacity=".9" stroke-linecap="round"/>
+<text class="nm" x="0" y="98">Michael</text>
+<text class="nm" x="0" y="168">Herland Valen</text>
+</svg>
