@@ -13,10 +13,10 @@ Outside of work you'll find me kayaking, fishing, or cooking something slightly 
 Coming soon: Fernly, a private, local-first medication and health journal for iPhone and Android.
 
 <!-- lately:start -->
-- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.0) (latest) · 2026-10-07<br>The `[schema]` table is removed from the manifest.
+- **[minimenta](https://github.com/OriginalMHV/minimenta)** [v0.1.0](https://github.com/OriginalMHV/minimenta/releases/tag/v0.1.0) (latest) · 2026-10-10<br>The Changed and Fixed lists describe changes since earlier builds from the main branch.
+- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.0) · 2026-10-07<br>The `[schema]` table is removed from the manifest.
 - **[Ward](https://github.com/OriginalMHV/Ward)** [v0.5.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.5.0) · 2026-10-06<br>The CLI is consolidated around `plan`, `apply`, `drift` and `audit`.
 - **[Recall](https://github.com/OriginalMHV/Recall)** [v0.1.1](https://github.com/OriginalMHV/Recall/releases/tag/v0.1.1) · 2026-03-24<br>OpenAI Codex CLI provider.
-- **[minimenta](https://github.com/OriginalMHV/minimenta)** · no release yet
 
 Updated weekly from my GitHub releases.
 <!-- lately:end -->
