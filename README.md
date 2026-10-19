@@ -13,9 +13,9 @@ Outside of work you'll find me kayaking, fishing, or cooking something slightly 
 Coming soon: Fernly, a private, local-first medication and health journal for iPhone and Android.
 
 <!-- lately:start -->
-- **[minimenta](https://github.com/OriginalMHV/minimenta)** [v0.1.0](https://github.com/OriginalMHV/minimenta/releases/tag/v0.1.0) (latest) · 2026-10-10<br>The Changed and Fixed lists describe changes since earlier builds from the main branch.
-- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.0) · 2026-10-07<br>The `[schema]` table is removed from the manifest.
-- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.5.0](https://github.com/OriginalMHV/Ward/releases/tag/v0.5.0) · 2026-10-06<br>The CLI is consolidated around `plan`, `apply`, `drift` and `audit`.
+- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.2](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.2) (latest) · 2026-10-15<br>The warnings for deprecated aliases now say that Ward removes them in 0.7.0.
+- **[Ward](https://github.com/OriginalMHV/Ward)** [v0.6.1](https://github.com/OriginalMHV/Ward/releases/tag/v0.6.1) · 2026-10-14<br>Updated rustls to 0.23.46 to fix RUSTSEC-2026-0346, RUSTSEC-2026-0347...
+- **[minimenta](https://github.com/OriginalMHV/minimenta)** [v0.1.0](https://github.com/OriginalMHV/minimenta/releases/tag/v0.1.0) · 2026-10-10<br>The Changed and Fixed lists describe changes since earlier builds from the main branch.
 - **[Recall](https://github.com/OriginalMHV/Recall)** [v0.1.1](https://github.com/OriginalMHV/Recall/releases/tag/v0.1.1) · 2026-03-24<br>OpenAI Codex CLI provider.
 
 Updated weekly from my GitHub releases.
